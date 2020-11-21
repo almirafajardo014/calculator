@@ -14,10 +14,10 @@ public class CalDemo {
 		System.out.println("Enter 2nd number: ");
 		num2 = in.nextInt();
 		
-		System.out.println("Sum = "+(num1+num2));
-		System.out.println("Subtraction = "+(num1-num2));
-		System.out.println("Multiplication = "+(num1*num2));
-		System.out.println("Division = "+(num1/num2));
+		System.out.println("Sum of The Numbers = "+(num1+num2));
+		System.out.println("Subtract The Numbers = "+(num1-num2));
+		System.out.println("Multiply The Numbers = "+(num1*num2));
+		System.out.println("Divide The Numbers = "+(num1/num2));
 	}
 
 }
